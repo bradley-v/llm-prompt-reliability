@@ -1,0 +1,67 @@
+id,text,correct_label,variant,prediction
+1,I want a refund on this product.,REFUND,A,REFUND
+2,I want a replacement of this product.,REPLACEMENT,A,REPLACEMENT
+3,I want to file a complaint.,OTHER,A,OTHER
+4,The headphones are defective. Please return my money.,REFUND,A,REFUND
+5,I'd like to exchange this broken charger for a working one.,REPLACEMENT,A,REPLACEMENT
+6,My order arrived three days late and I'm disappointed.,OTHER,A,OTHER
+7,Can you reimburse me for this purchase?,REFUND,A,REFUND
+8,The screen is cracked. Could you send another one?,REPLACEMENT,A,REPLACEMENT
+9,I was told refunds aren't available after 30 days.,OTHER,A,OTHER
+10,I don't want another product. I just want my money back.,REFUND,A,REFUND
+11,The jacket doesn't fit. I'd prefer a different size.,REPLACEMENT,A,REPLACEMENT
+12,Your customer service has been terrible.,OTHER,A,OTHER
+13,Is it possible to get my payment reversed?,REFUND,A,REFUND
+14,The replacement you sent is also broken.,OTHER,A,REFUND
+15,"Instead of giving me a refund, please send a new unit.",REPLACEMENT,A,REPLACEMENT
+16,I was expecting better quality for this price.,OTHER,A,OTHER
+17,I'd appreciate it if you could credit the purchase amount back to my account.,REFUND,A,REFUND
+18,Can I get the same item again without paying extra?,REPLACEMENT,A,REPLACEMENT
+19,I don't want this item anymore,OTHER,A,OTHER
+20,"This item is damaged, can I get it marked down?",OTHER,A,OTHER
+21,This item was recalled by the manufacturer,OTHER,A,REFUND
+22,"This item was missing pieces inside, and I want one that contains everything it is meant to",REPLACEMENT,A,REPLACEMENT
+1,I want a refund on this product.,REFUND,B,REFUND
+2,I want a replacement of this product.,REPLACEMENT,B,REPLACEMENT
+3,I want to file a complaint.,OTHER,B,OTHER
+4,The headphones are defective. Please return my money.,REFUND,B,REFUND
+5,I'd like to exchange this broken charger for a working one.,REPLACEMENT,B,REPLACEMENT
+6,My order arrived three days late and I'm disappointed.,OTHER,B,OTHER
+7,Can you reimburse me for this purchase?,REFUND,B,REFUND
+8,The screen is cracked. Could you send another one?,REPLACEMENT,B,REPLACEMENT
+9,I was told refunds aren't available after 30 days.,OTHER,B,OTHER
+10,I don't want another product. I just want my money back.,REFUND,B,REFUND
+11,The jacket doesn't fit. I'd prefer a different size.,REPLACEMENT,B,REPLACEMENT
+12,Your customer service has been terrible.,OTHER,B,OTHER
+13,Is it possible to get my payment reversed?,REFUND,B,REFUND
+14,The replacement you sent is also broken.,OTHER,B,REFUND
+15,"Instead of giving me a refund, please send a new unit.",REPLACEMENT,B,REPLACEMENT
+16,I was expecting better quality for this price.,OTHER,B,OTHER
+17,I'd appreciate it if you could credit the purchase amount back to my account.,REFUND,B,REFUND
+18,Can I get the same item again without paying extra?,REPLACEMENT,B,REPLACEMENT
+19,I don't want this item anymore,OTHER,B,OTHER
+20,"This item is damaged, can I get it marked down?",OTHER,B,OTHER
+21,This item was recalled by the manufacturer,OTHER,B,REFUND
+22,"This item was missing pieces inside, and I want one that contains everything it is meant to",REPLACEMENT,B,REPLACEMENT
+1,I want a refund on this product.,REFUND,C,REFUND
+2,I want a replacement of this product.,REPLACEMENT,C,REPLACEMENT
+3,I want to file a complaint.,OTHER,C,OTHER
+4,The headphones are defective. Please return my money.,REFUND,C,REFUND
+5,I'd like to exchange this broken charger for a working one.,REPLACEMENT,C,REPLACEMENT
+6,My order arrived three days late and I'm disappointed.,OTHER,C,OTHER
+7,Can you reimburse me for this purchase?,REFUND,C,REFUND
+8,The screen is cracked. Could you send another one?,REPLACEMENT,C,REPLACEMENT
+9,I was told refunds aren't available after 30 days.,OTHER,C,OTHER
+10,I don't want another product. I just want my money back.,REFUND,C,REFUND
+11,The jacket doesn't fit. I'd prefer a different size.,REPLACEMENT,C,REPLACEMENT
+12,Your customer service has been terrible.,OTHER,C,OTHER
+13,Is it possible to get my payment reversed?,REFUND,C,REFUND
+14,The replacement you sent is also broken.,OTHER,C,REFUND
+15,"Instead of giving me a refund, please send a new unit.",REPLACEMENT,C,REPLACEMENT
+16,I was expecting better quality for this price.,OTHER,C,OTHER
+17,I'd appreciate it if you could credit the purchase amount back to my account.,REFUND,C,REFUND
+18,Can I get the same item again without paying extra?,REPLACEMENT,C,REPLACEMENT
+19,I don't want this item anymore,OTHER,C,OTHER
+20,"This item is damaged, can I get it marked down?",OTHER,C,OTHER
+21,This item was recalled by the manufacturer,OTHER,C,OTHER
+22,"This item was missing pieces inside, and I want one that contains everything it is meant to",REPLACEMENT,C,REPLACEMENT

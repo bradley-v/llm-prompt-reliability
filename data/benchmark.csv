@@ -1,0 +1,23 @@
+id,text,label
+1,"I want a refund on this product.",REFUND
+2,"I want a replacement of this product.",REPLACEMENT
+3,"I want to file a complaint.",OTHER
+4,"The headphones are defective. Please return my money.",REFUND
+5,"I'd like to exchange this broken charger for a working one.",REPLACEMENT
+6,"My order arrived three days late and I'm disappointed.",OTHER
+7,"Can you reimburse me for this purchase?",REFUND
+8,"The screen is cracked. Could you send another one?",REPLACEMENT
+9,"I was told refunds aren't available after 30 days.",OTHER
+10,"I don't want another product. I just want my money back.",REFUND
+11,"The jacket doesn't fit. I'd prefer a different size.",REPLACEMENT
+12,"Your customer service has been terrible.",OTHER
+13,"Is it possible to get my payment reversed?",REFUND
+14,"The replacement you sent is also broken.",OTHER
+15,"Instead of giving me a refund, please send a new unit.",REPLACEMENT
+16,"I was expecting better quality for this price.",OTHER
+17,"I'd appreciate it if you could credit the purchase amount back to my account.",REFUND
+18,"Can I get the same item again without paying extra?",REPLACEMENT
+19,"I don't want this item anymore",OTHER
+20,"This item is damaged, can I get it marked down?",OTHER
+21,"This item was recalled by the manufacturer",OTHER
+22,"This item was missing pieces inside, and I want one that contains everything it is meant to",REPLACEMENT
